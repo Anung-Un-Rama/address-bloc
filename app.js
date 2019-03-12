@@ -4,6 +4,7 @@ const menu = new MenuController();
 
 menu.clear();
 menu.main();
+menu.getDate();
 
 /*
 const questions = [
