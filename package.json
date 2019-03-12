@@ -2,7 +2,7 @@
   "name": "address-bloc",
   "version": "1.0.0",
   "description": "An application to model an address book in Node",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anung-Un-Rama/address-bloc/issues"
   },
-  "homepage": "https://github.com/Anung-Un-Rama/address-bloc#readme"
+  "homepage": "https://github.com/Anung-Un-Rama/address-bloc#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
 }
