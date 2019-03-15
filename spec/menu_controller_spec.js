@@ -11,6 +11,7 @@ describe("MenuController", () => {
     });
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   });
 
   describe("remindMe()", () => {
@@ -21,5 +22,7 @@ describe("MenuController", () => {
 >>>>>>> checkpoint-branch
 =======
 >>>>>>> 1fc6dd7264241574a2242d0e74e4b8dc7fe594a1
+=======
+>>>>>>> checkpoint_submission_branch
   })
 });
