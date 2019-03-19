@@ -7,29 +7,3 @@ menu.main();
 menu.getDate();
 menu.getContactCount();
 menu.remindMe();
-
-/*
-const questions = [
-  {
-  type: "list",
-  name: "status",
-  message: "Are you hungry?: ",
-  choices: [
-    "Yes",
-    "No"
-  ]
- }
-]
-
-
-inquirer.prompt(questions).then((answers) => {
-  if (answers.status === "Yes") {
-    console.log("Go eat ya dingus!");
-  } else {
-    console.log("Get back to work, slacker!")
-  }
-})
-.catch((err) => {
-  console.log(err);
-});
-*/
